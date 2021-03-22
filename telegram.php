@@ -10,7 +10,7 @@ if (isset($_POST['token'])) {
 
 $url = 'https://www.google.com/recaptcha/api/siteverify';
 $params = [
-  'secret' => '**Secret Key**', // Добавить секретку
+  'secret' => '**Secret Key**',
   'response' => $captcha_token,
   'remoteip' => $_SERVER['REMOTE_ADDR']
 ];

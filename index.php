@@ -10,14 +10,6 @@
 		</div>
 		<div id="es-portfolio-section">
 			<div class="container">
-				<ul id="filters" class="clearfix animate-box media-hidden">
-					<!-- <li><span class="filter active" data-filter=".all">Всё</span></li>
-					<li><span class="filter" data-filter=".fin">Готовые работы</span></li>
-					<li><span class="filter" data-filter=".our-work">Наши работы</span></li> -->
-					<!-- <li><span class="filter" data-filter=".icon">Icon</span></li>
-					<li><span class="filter" data-filter=".logo">Logo</span></li>
-					<li><span class="filter" data-filter=".fin">fin</span></li> -->
-				</ul>
 				<div id="portfoliolist" class="animate-box">
 				<section class="testimonials section">	
          		<div class="gallery-module animate-box">
@@ -25,8 +17,8 @@
 					    <li>
 					    <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/20.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/20.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
@@ -44,8 +36,8 @@
 					    <li data-cat="fin">
 					    <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/18.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/18.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
@@ -63,8 +55,8 @@
 					    <li data-cat="fin">
 					      <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/12.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/12.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
@@ -82,8 +74,8 @@
 					    <li data-cat="fin">
 					      <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/5.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/5.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
@@ -101,8 +93,8 @@
 					    <li data-cat="fin">
 					      <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/14.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/14.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
@@ -120,8 +112,8 @@
 					    <li data-cat="fin">
 					      <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/9.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/9.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
@@ -139,8 +131,8 @@
 					    <li data-cat="fin">
 					      <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/22.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/22.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
@@ -158,13 +150,13 @@
 					    <li data-cat="fin">
 					      <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/vr1.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/vr1.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
 										<a class="text-title">Доска для стейка</a>
-										<span class="vr">Цена: от 3500 до 5500 ₽</span>
+										<span class="text-category">Цена: 3500 ₽</span>
 										<a href="contact.php" rel="nofollow">
 											<button class="btn btn-primary btn-connect">Связаться</button>
 										</a>
@@ -177,13 +169,13 @@
 					    <li data-cat="fin">
 					      <div class="portfolio-mobile all our-work" data-cat="our-work">
 							<div class="portfolio-wrapper">			
-								<a href="images/2.jpg" class="link-img" data-lightbox="image-0">
-									<div class="img-partfolio" style="background-image: url('/images/2.jpg');"></div>
+								<a href="images/bg.jpg" class="link-img" data-lightbox="image-0">
+									<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 								</a>
 								<div>
 									<div class="label-text">
 										<a class="text-title">Подстолье</a>
-										<span class="text-category vrm">Цена: от 8000 ₽</span>
+										<span class="text-category">Цена: 8000 ₽</span>
 										<a href="contact.php" rel="nofollow">
 											<button class="btn btn-primary btn-connect">Связаться</button>
 										</a>
@@ -200,8 +192,8 @@
 				<div class="media-hidden">
 					<div class="portfolio all our-work" data-cat="our-work">
 						<div class="portfolio-wrapper">			
-							<a href="images/20.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/20.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -218,8 +210,8 @@
 
 					<div class="portfolio all fin" data-cat="fin">
 						<div class="portfolio-wrapper">				
-							<a href="images/18.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/18.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -236,8 +228,8 @@
 
 					<div class="portfolio all our-work" data-cat="our-work">
 						<div class="portfolio-wrapper">			
-							<a href="images/12.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/12.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -255,8 +247,8 @@
 					
 					<div class="portfolio all fin" data-cat="fin">
 						<div class="portfolio-wrapper">	
-						<a href="images/5.jpg" class="link-img" data-lightbox="image-1">
-							<div class="img-partfolio" style="background-image: url('/images/5.jpg');"></div>
+						<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+							<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 						</a>
 							<div>
 								<div class="label-text">
@@ -273,8 +265,8 @@
 
 					<div class="portfolio all fin" data-cat="fin">
 						<div class="portfolio-wrapper">
-							<a href="images/14.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/14.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -291,8 +283,8 @@
 
 					<div class="portfolio all fin" data-cat="fin">
 						<div class="portfolio-wrapper">			
-							<a href="images/9.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/9.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -309,8 +301,8 @@
 
 					<div class="portfolio all fin" data-cat="fin">
 						<div class="portfolio-wrapper">			
-							<a href="images/22.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/22.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -327,8 +319,8 @@
 					
 					<div class="portfolio all our-work" data-cat="our-work">
 						<div class="portfolio-wrapper">			
-							<a href="images/vr1.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/vr1.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -345,8 +337,8 @@
 					
 					<div class="portfolio all our-work" data-cat="our-work">
 						<div class="portfolio-wrapper">			
-							<a href="images/2.jpg" class="link-img" data-lightbox="image-1">
-								<div class="img-partfolio" style="background-image: url('/images/2.jpg');"></div>
+							<a href="images/bg.jpg" class="link-img" data-lightbox="image-1">
+								<div class="img-partfolio" style="background-image: url('/images/bg.jpg');"></div>
 							</a>
 							<div>
 								<div class="label-text">
@@ -413,16 +405,16 @@
 			<div class="container">
 		 	<div class="row contact-section">
 			<div class="col-md-4 animate-box">
-				<h3 class="h3-adress-index ">Наш адресс</h3>
+				<h3 class="h3-adress-index ">Наш адрес</h3>
 				<ul class="contact-info-index">
 					<li><i class="icon-location-pin"></i>Санкт-Петербург, Промышленная улица, дом 19Н</li>
 					<li><i class="icon-phone2"></i><a href="tel:+79602537787" style="color: black">+79999999999</a></li>
 					<li><i class="icon-mail"></i><a href="#">mail@gmail.com</a></li>
 					<div class="social-text-align">
 						<p class="es-social-icons-contact">
-							<a href="https://vk.com/slabriver"><i class="icon-vk-with-circle"></i></a>
-							<a href="https://t.me/SlabRiver"><i class="icon-telegram"></i></a>
-							<a href="https://instagram.com/slab.river?igshid=1pxn5p0bx081v"><i class="icon-instagram-with-circle"></i></a>
+							<a href="#"><i class="icon-vk-with-circle"></i></a>
+							<a href="#"><i class="icon-telegram"></i></a>
+							<a href="#"><i class="icon-instagram-with-circle"></i></a>
 						</p>
 					</div>
 				</ul>

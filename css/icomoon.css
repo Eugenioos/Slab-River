@@ -10,17 +10,6 @@
     font-style: normal;
 }
 
-/*@font-face {
-    font-family: 'icomoon2';
-    src:    url('fonts2/icomoon2.eot?1oniuf');
-    src:    url('fonts2/icomoon2.eot?1oniuf#iefix') format('embedded-opentype'),
-        url('fonts2/icomoon2.ttf?1oniuf') format('truetype'),
-        url('fonts2/icomoon2.woff?1oniuf') format('woff'),
-        url('fonts2/icomoon2.svg?1oniuf#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}*/
-
 [class^="icon-"], [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;

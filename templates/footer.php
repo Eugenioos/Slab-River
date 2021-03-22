@@ -7,9 +7,9 @@
 				</div>
 				<div class="col-md-6 social-text-align">
 					<p class="es-social-icons">
-						<a href="https://vk.com/slabriver"><i class="icon-vk-with-circle"></i></a>
-						<a href="https://t.me/SlabRiver"><i class="icon-telegram"></i></a>
-						<a href="https://instagram.com/slab.river?igshid=1pxn5p0bx081v"><i class="icon-instagram-with-circle"></i></a>
+						<a href="#"><i class="icon-vk-with-circle"></i></a>
+						<a href="#"><i class="icon-telegram"></i></a>
+						<a href="#"><i class="icon-instagram-with-circle"></i></a>
 					</p>
 				</div>
 			</div>
