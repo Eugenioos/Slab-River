@@ -80,17 +80,5 @@
   });
 })();
 
-// $(function(){
-//   let reviews = $('.reviews');
-//   let reviewsTop = reviews.offset().top;
-//   $(window).scroll(function(){
-//     let windowTop = $(this).scrollTop();
-//     if (windowTop > reviewsTop) {
-//       console.log('Добавить')
-//       $('.es-map').html('<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A69fc9d7ace4b5cfaa5dd3af2e5d9e5aad50e2c8f3535261fd4bbb0496185b27b&amp;width=100%&amp;height=450&amp;lang=ru_RU&amp;scroll=true"></script>')
-//       $(window).unbind('scroll')
-//     }
-//   })
-// });
 
 
